@@ -1,0 +1,4 @@
+name: Motd_
+version: '${project.version}'
+main: com.sawai.motd_.Motd_
+api-version: '1.20'
